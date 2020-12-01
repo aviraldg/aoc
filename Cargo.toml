@@ -1,0 +1,10 @@
+[package]
+name = "aoc2020"
+version = "0.1.0"
+authors = ["Aviral Dasgupta <me@aviraldg.com>"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+aoc-runner = "0.3.0"             # A runner for the Advent of Code
+aoc-runner-derive = "0.3.0"      # Codegen for aoc-runner & others
